@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { MapPin } from "lucide-react";
 import {
-  FaInstagram,
+  FaInstagram, FaTiktok
 } from "react-icons/fa6";
 
 import Logo from "./Logo";
@@ -57,6 +57,16 @@ export default function Footer() {
             className="inline-flex text-warmgray hover:text-gold transition-colors"
           >
             <FaInstagram size={20} />
+          </a>
+          
+          <a
+            href="https://www.tiktok.com/@eventhouse_kenya"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Instagram"
+            className="inline-flex text-warmgray hover:text-gold transition-colors"
+          >
+            <FaTiktok size={20} />
           </a>
         </div>
 
