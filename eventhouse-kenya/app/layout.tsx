@@ -29,7 +29,7 @@ const bodyFont = Manrope({
 // covers 400-700 automatically in one file.
 
 export const metadata: Metadata = {
-  title: "Seneo Holdings | Catering, Cakes & Events",
+  title: "Event House Kenya | Weddings • Corporate • Social",
   description:
     "Bespoke catering, custom cakes and elegant event styling across Nakuru and beyond.",
 };
