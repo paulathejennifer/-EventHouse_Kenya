@@ -58,13 +58,13 @@ export default function Hero() {
           </p>
 
 <div className="flex flex-wrap items-center gap-4">
-  <Button
-    href="#book"
-    variant="primary"
-    icon={<WhatsAppIcon className="w-4 h-4" />}
-  >
-    Book an Event
-  </Button>
+<Button
+  href="https://wa.me/254813199484?text=Hello%20Seneo%20Holdings,%20I'd%20like%20to%20book%20an%20event."
+  variant="primary"
+  icon={<WhatsAppIcon className="w-4 h-4" />}
+>
+  Book an Event
+</Button>
   <Button
     href="#gallery"
     variant="secondary"

@@ -57,7 +57,7 @@ export default function GallerySection() {
       </div>
 
       <div className="flex justify-center">
-        <Button href="/gallery" variant="secondary" icon={<LayoutGrid size={16} />}>
+        <Button variant="secondary" icon={<LayoutGrid size={16} />}>
           View More Gallery
         </Button>
       </div>
