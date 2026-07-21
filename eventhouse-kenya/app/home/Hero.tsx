@@ -58,10 +58,18 @@ export default function Hero() {
           </p>
 
 <div className="flex flex-wrap items-center gap-4">
-  <Button href="/book" variant="primary" icon={<WhatsAppIcon className="w-4 h-4" />}>
+  <Button
+    href="#book"
+    variant="primary"
+    icon={<WhatsAppIcon className="w-4 h-4" />}
+  >
     Book an Event
   </Button>
-  <Button href="/gallery" variant="secondary" icon={<ImageIcon size={16} />}>
+  <Button
+    href="#gallery"
+    variant="secondary"
+    icon={<ImageIcon size={16} />}
+  >
     View Gallery
   </Button>
 </div>
