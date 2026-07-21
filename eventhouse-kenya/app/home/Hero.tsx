@@ -33,7 +33,7 @@ export default function Hero() {
       <div className="relative z-10 h-full flex flex-col justify-center px-6 md:px-16 pt-24">
         <div className="max-w-xl">
           <p className="font-sans text-olive font-semibold text-xs md:text-sm tracking-[0.2em] uppercase mb-3">
-            Weddings • Corporate • Social
+            Wedding. Corporate. Social.
           </p>
 
           <h1 className="font-serif text-charcoal text-4xl md:text-5xl lg:text-6xl leading-[1.1] mb-2 uppercase">
