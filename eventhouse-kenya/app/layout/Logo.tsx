@@ -12,7 +12,7 @@ export default function Logo() {
         className="w-8 h-auto md:w-10 mb-1"
       />
 
-      <span className="font-serif text-charcoal text-2xl md:text-3xl tracking-[0.08em] uppercase">
+      <span className="font-serif text-charcoal text-xl md:text-3xl tracking-[0.08em] uppercase">
         EVENT HOUSE
       </span>
 

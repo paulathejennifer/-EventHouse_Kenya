@@ -30,7 +30,7 @@ export default function Hero() {
         // (30,30,30) as the color — text sits on the left again here.
       />
 
-      <div className="relative z-10 h-full flex flex-col justify-center px-6 md:px-16 pt-24">
+      <div className="relative z-10 h-full flex flex-col justify-center px-6 md:px-16 pt-26">
         <div className="max-w-xl">
           <p className="font-sans text-olive font-semibold text-xs md:text-sm tracking-[0.2em] uppercase mb-3">
             Wedding. Corporate. Social.
