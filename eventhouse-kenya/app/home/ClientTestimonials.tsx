@@ -2,11 +2,11 @@ import { Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "Seneo Holdings made our wedding day absolutely perfect! The food was incredible and the setup was so elegant.",
+    quote: "Event House made our wedding day absolutely perfect! The food was incredible and the setup was so elegant.",
     author: "Wairimu & Brian",
   },
   {
-    quote: "The cake was beyond beautiful and tasted amazing! Exactly what we envisioned and even better.",
+    quote: "The decor was just out of this world! Exactly what we envisioned and even better.",
     author: "Mercy, Birthday Event",
   },
   {
