@@ -66,7 +66,7 @@ export default function Footer() {
             aria-label="Instagram"
             className="inline-flex text-warmgray hover:text-gold transition-colors"
           >
-            <FaTiktok size={20} />
+            <FaTiktok size={20} className="pl-5" />
           </a>
         </div>
 
